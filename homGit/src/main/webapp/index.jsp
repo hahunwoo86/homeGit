@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>다섯번째 파일올리기</title>
+		<title>6번째 파일올리기</title>
 	</head> 
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
